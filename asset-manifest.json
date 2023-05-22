@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/face-landmark-detection/static/css/main.073c9b0a.css",
+    "main.js": "/face-landmark-detection/static/js/main.e1d10386.js",
+    "static/js/787.a4da6e60.chunk.js": "/face-landmark-detection/static/js/787.a4da6e60.chunk.js",
+    "index.html": "/face-landmark-detection/index.html",
+    "main.073c9b0a.css.map": "/face-landmark-detection/static/css/main.073c9b0a.css.map",
+    "main.e1d10386.js.map": "/face-landmark-detection/static/js/main.e1d10386.js.map",
+    "787.a4da6e60.chunk.js.map": "/face-landmark-detection/static/js/787.a4da6e60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e1d10386.js"
+  ]
+}
