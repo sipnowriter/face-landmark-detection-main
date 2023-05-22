@@ -2683,7 +2683,7 @@ export const TRIANGULATION = [
   
           ctx.beginPath();
           ctx.arc(x, y, 1 /* radius */, 0, 3 * Math.PI);
-          ctx.fillStyle = "aqua";
+          ctx.fillStyle = "white";
           ctx.fill();
         }
       });
